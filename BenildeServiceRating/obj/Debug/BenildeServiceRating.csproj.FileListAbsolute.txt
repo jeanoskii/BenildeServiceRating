@@ -1,0 +1,614 @@
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\jeano\documents\visual studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+E:\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+E:\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+E:\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+E:\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+E:\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+E:\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+E:\BenildeServiceRating\BenildeServiceRating\obj\Debug\ResolveAssemblyReference.cache
+E:\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+E:\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.xml
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.csprojResolveAssemblyReference.cache
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Arcia\Documents\Visual Studio 2010\Projects\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.csprojResolveAssemblyReference.cache
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Richmond C. Yu\Desktop\2nd half files\BenildeServiceRating\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.csprojResolveAssemblyReference.cache
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\obj\Debug\BenildeServiceRating.csprojResolveAssemblyReference.cache
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Arcia\Desktop\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\AjaxControlToolkit.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Jeano\Documents\Visual Studio 2010\Projects\BenildeServiceRating - Complete SPMO Side without UI\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\obj\Debug\BenildeServiceRating.csprojResolveAssemblyReference.cache
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Arcia\Downloads\BSR LATEST\BenildeServiceRating - Complete SPMO 031815\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+E:\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\BenildeServiceRating.pdb
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\HtmlAgilityPack.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\AjaxMin.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\AjaxControlToolkit.pdb
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\DotNet.Highcharts.pdb
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.OData.xml
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\Microsoft.Data.Edm.xml
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\System.Spatial.xml
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\de\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\es\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\fr\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\it\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ja\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ko\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\ru\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.dll
+C:\Users\Jeano\Desktop\BenildeServiceRating\BenildeServiceRating\obj\Debug\BenildeServiceRating.pdb
+C:\Users\Arcia\Downloads\BenildeServiceRating\BenildeServiceRating\obj\Debug\ResolveAssemblyReference.cache

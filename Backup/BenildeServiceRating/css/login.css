@@ -1,0 +1,17 @@
+﻿body {
+    background-image:url('images/bg/main.jpg');
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-repeat:no-repeat;
+    background-size: cover;
+}	
+
+#loginDiv 
+{
+border:1px solid white;
+max-width: 400px;
+border-radius:10%;   
+background-color:White;
+z-index:-1;
+margin-top:-5%;
+}
